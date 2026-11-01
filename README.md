@@ -20,6 +20,7 @@ Windows only.
    The first start takes a few minutes while the launcher downloads things. That's normal.
 
 That's it. Your normal Minecraft worlds and settings are not touched: the mod has its own separate saves.
+Your resource packs and shader packs are copied over for you (run Install again to copy new ones).
 
 ## The first time you play
 
